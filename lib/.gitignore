@@ -1,0 +1,4 @@
+# object/libs
+*.o
+*.a 
+*~

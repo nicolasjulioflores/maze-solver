@@ -1,0 +1,24 @@
+sbian 37693 Wed Mar  8 21:57:58 2017
+
+Avatar id: 0; (x,y) = (4, 9); move = 2 
+Avatar id: 1; (x,y) = (3, 7); move = 2 
+Avatar id: 0; (x,y) = (4, 9); move = 3 
+Avatar id: 1; (x,y) = (3, 8); move = 3 
+Avatar id: 0; (x,y) = (5, 9); move = 1 
+Avatar id: 1; (x,y) = (3, 8); move = 2 
+Avatar id: 0; (x,y) = (5, 9); move = 3 
+Avatar id: 1; (x,y) = (3, 9); move = 3 
+Avatar id: 0; (x,y) = (6, 9); move = 1 
+Avatar id: 1; (x,y) = (4, 9); move = 1 
+Avatar id: 0; (x,y) = (6, 9); move = 3 
+Avatar id: 1; (x,y) = (4, 9); move = 3 
+Avatar id: 0; (x,y) = (7, 9); move = 1 
+Avatar id: 1; (x,y) = (5, 9); move = 1 
+Avatar id: 0; (x,y) = (7, 8); move = 0 
+Avatar id: 1; (x,y) = (5, 9); move = 3 
+Avatar id: 0; (x,y) = (7, 8); move = 1 
+Avatar id: 1; (x,y) = (6, 9); move = 1 
+Avatar id: 0; (x,y) = (7, 8); move = 3 
+Avatar id: 1; (x,y) = (6, 9); move = 3 
+Avatar id: 0; (x,y) = (7, 8); move = 2 
+MAZE SOLVED; number avatars = 2; difficulty = 2; number moves = 20; hash = 773152242 

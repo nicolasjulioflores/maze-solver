@@ -1,0 +1,11 @@
+# object files and other garbage
+*.o
+.nfs*
+
+# small projects we made to test things
+dev
+
+# project files
+AMStartup
+AmazingClient
+
